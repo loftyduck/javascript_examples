@@ -1,1 +1,3 @@
 a second file, for testing merges
+
+one more change before finishing the feature
