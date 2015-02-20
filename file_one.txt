@@ -2,13 +2,10 @@ Testing gitflow
 
 another line, another change, another day
 
-this line is for the second feature
-
-more text, now on the second release ie. Sprint 101?
-
 another line for # 102
 
 one commit for new feature 103
 another commit for 103
 a bug fix for sprint 103
 
+a new line for 104
